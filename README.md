@@ -1,7 +1,7 @@
 # 📱 WhatsApp Clone
 
 A **full-stack real-time chat application** inspired by WhatsApp Web — built with **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB Atlas**.  
-Supports **real-time messaging**, **user authentication**, and a **clean, responsive UI**.
+Supports **real-time messaging**, and a **clean, responsive UI**.
 
 ---
 
@@ -18,12 +18,10 @@ Supports **real-time messaging**, **user authentication**, and a **clean, respon
 **Frontend:**  
 - ⚛️ React.js  
 - 🎨 Tailwind CSS  
-- 🔄 Socket.IO Client  
 
 **Backend:**  
 - 🖥️ Node.js  
 - 🚏 Express.js  
-- 🔄 Socket.IO Server  
 - 📦 MongoDB Atlas
 
 ---
